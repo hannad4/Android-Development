@@ -6,7 +6,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:context=".MainActivity"
-        android:layout_gravity="center_vertical" android:orientation="vertical">
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
 
     <TextView
             android:id="@+id/result_text"
@@ -14,21 +15,28 @@
             android:layout_height="wrap_content"
             android:text="@string/number"
             android:layout_gravity="center_horizontal"
-            android:textSize="50sp"/>
+            android:layout_marginBottom="15sp"
+            android:textSize="150sp"/>
 
     <Button
             android:id="@+id/roll_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="150sp"
+            android:layout_height="80sp"
             android:text="@string/roll_label"
             android:layout_gravity="center_horizontal"/>
 
     <Button
-            android:id="@+id/reset_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/reset_label"
+            android:id="@+id/countUp_button"
+            android:layout_width="150sp"
+            android:layout_height="80sp"
+            android:text="@string/count_up"
             android:layout_gravity="center_horizontal"/>
 
+    <Button
+            android:id="@+id/reset_button"
+            android:layout_width="150sp"
+            android:layout_height="80sp"
+            android:text="@string/reset_label"
+            android:layout_gravity="center_horizontal"/>
 
 </LinearLayout>
