@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DiceRoller</string>
+    <string name="app_name">Dice Roller</string>
     <string name="roll_label">Roll</string>
     <string name="reset_label">Reset</string>
     <string name="number">1</string>
