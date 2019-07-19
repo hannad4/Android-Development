@@ -4,4 +4,5 @@
     <string name="reset_label">Reset</string>
     <string name="number">1</string>
     <string name="count_up">Count Up</string>
+    <string name="imageDescription">Image of 6-sided dice</string>
 </resources>
