@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".MainActivity"
-        android:orientation="vertical" style="@style/layout_padding">
+        style="@style/layout_padding" android:orientation="vertical">
     <TextView
             android:text="@string/name"
             android:layout_width="match_parent"
@@ -14,6 +14,25 @@
             android:id="@+id/name_text"
             android:textAlignment="center"
             style="@style/NameStyle"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/nickname_edit" android:autofillHints="" style="@style/NameStyle"
+            android:textAlignment="center" android:hint="@string/what_is_your_nickname"/>
+    <Button
+            android:text="@string/done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/done_button"
+            android:layout_gravity="center_horizontal" style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_marginTop="@dimen/layout_margin" android:fontFamily="@font/roboto"/>
+    <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/nickname_text" style="@style/NameStyle"
+            android:textAlignment="center" android:visibility="gone" android:background="@color/colorAccent"
+            android:paddingBottom="@dimen/small_padding"/>
     <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content" app:srcCompat="@android:drawable/btn_star_big_on"
@@ -35,11 +54,12 @@
                     android:text="@string/bio_text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/bio_text" style="@style/NameStyle" android:lineSpacingMultiplier="1.2"/>
+                    android:id="@+id/bio_text" style="@style/NameStyle" android:lineSpacingMultiplier="1.2"
+            />
             <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" app:srcCompat="@android:drawable/ic_input_add"
-                    android:id="@+id/imageView2" android:contentDescription="this is testing to see if this works :)"/>
+                    android:id="@+id/plus_button" android:contentDescription="@string/plus_sign"/>
         </LinearLayout>
     </ScrollView>
 
