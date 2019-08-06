@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\8a61e1cc59f970bb4c9570c21b25fea1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\82391cd76d85f3b6626c1b2ed2cb53da\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\eed3e693c2d1b00358eb184219d77e56\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\79f79043c7b29c68d5740ea048da7596\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\5ea0078ddd59a4708e06e1750c9194ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\e5bd70dc4ef7daf69558b8fddcf058f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d480bba7793fc47ff75c2cc57df1ad02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\8a03fd5a221cc013eac1451df7ad031c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\a6521849e617350842113955cf50fd9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\de1ac63885f2b16199051fc51c702a0a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\73b8d7907beb9058e011ecb2acf90230\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d12a3c29281f3d17f611c54d21427420\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\3c5f3026aac5b48d004ca4b664c2b7ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\a15015debd2213e321c9c04d3bad291c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\89691db5cbc8ef13b174e2c540c82575\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\9fa60ca99b94fa2963c7ac7c6bd2b87d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\e0b278a4bc2c06a51de2d5b7a214796a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\41b83900a8f54667ae95fcb29710098a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\aeceb2c99cd586b2593ccfec94adcd25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\0ad55d72bcc488ae9b0d7ce7d0d0b628\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\1871e75f59d13bacb025e16dd29a8fa8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\17a197482048b48c41239c5d250e78fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\f2e14734b41b62aafff4d9b02f0d8426\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\f511c09a635fb57fddc6b3e3221d1a30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\fa9785b0b723d6adb8252f8021ebac59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\4322d89917575be4aaca61c9080a5442\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\ee7a7192cef298bbcce54e13a6666caf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d5b8d2c1fe818d02eda3829b86bc442c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\3a15ddc58252a08a4b629ea16a30ccea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\52d8eb330a88f8b1234a57f6b1f63ad8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\eed3e693c2d1b00358eb184219d77e56\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\eed3e693c2d1b00358eb184219d77e56\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\aeceb2c99cd586b2593ccfec94adcd25\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\aeceb2c99cd586b2593ccfec94adcd25\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\1871e75f59d13bacb025e16dd29a8fa8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\1871e75f59d13bacb025e16dd29a8fa8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\aeceb2c99cd586b2593ccfec94adcd25\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:24:9-61
+	android:icon
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:22:9-50
+	android:allowBackup
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\8a61e1cc59f970bb4c9570c21b25fea1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\8a61e1cc59f970bb4c9570c21b25fea1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\82391cd76d85f3b6626c1b2ed2cb53da\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\82391cd76d85f3b6626c1b2ed2cb53da\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\eed3e693c2d1b00358eb184219d77e56\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\eed3e693c2d1b00358eb184219d77e56\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\79f79043c7b29c68d5740ea048da7596\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\79f79043c7b29c68d5740ea048da7596\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\5ea0078ddd59a4708e06e1750c9194ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\5ea0078ddd59a4708e06e1750c9194ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\e5bd70dc4ef7daf69558b8fddcf058f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\e5bd70dc4ef7daf69558b8fddcf058f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d480bba7793fc47ff75c2cc57df1ad02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d480bba7793fc47ff75c2cc57df1ad02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\8a03fd5a221cc013eac1451df7ad031c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\8a03fd5a221cc013eac1451df7ad031c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\a6521849e617350842113955cf50fd9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\a6521849e617350842113955cf50fd9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\de1ac63885f2b16199051fc51c702a0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\de1ac63885f2b16199051fc51c702a0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\73b8d7907beb9058e011ecb2acf90230\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\73b8d7907beb9058e011ecb2acf90230\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d12a3c29281f3d17f611c54d21427420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d12a3c29281f3d17f611c54d21427420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\3c5f3026aac5b48d004ca4b664c2b7ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\3c5f3026aac5b48d004ca4b664c2b7ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\a15015debd2213e321c9c04d3bad291c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\a15015debd2213e321c9c04d3bad291c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\89691db5cbc8ef13b174e2c540c82575\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\89691db5cbc8ef13b174e2c540c82575\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\9fa60ca99b94fa2963c7ac7c6bd2b87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\9fa60ca99b94fa2963c7ac7c6bd2b87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\e0b278a4bc2c06a51de2d5b7a214796a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\e0b278a4bc2c06a51de2d5b7a214796a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\41b83900a8f54667ae95fcb29710098a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\41b83900a8f54667ae95fcb29710098a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\aeceb2c99cd586b2593ccfec94adcd25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\aeceb2c99cd586b2593ccfec94adcd25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\0ad55d72bcc488ae9b0d7ce7d0d0b628\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\0ad55d72bcc488ae9b0d7ce7d0d0b628\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\1871e75f59d13bacb025e16dd29a8fa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\1871e75f59d13bacb025e16dd29a8fa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\17a197482048b48c41239c5d250e78fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\17a197482048b48c41239c5d250e78fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\f2e14734b41b62aafff4d9b02f0d8426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\f2e14734b41b62aafff4d9b02f0d8426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\f511c09a635fb57fddc6b3e3221d1a30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\f511c09a635fb57fddc6b3e3221d1a30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\fa9785b0b723d6adb8252f8021ebac59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\fa9785b0b723d6adb8252f8021ebac59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\4322d89917575be4aaca61c9080a5442\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\4322d89917575be4aaca61c9080a5442\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\ee7a7192cef298bbcce54e13a6666caf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\ee7a7192cef298bbcce54e13a6666caf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d5b8d2c1fe818d02eda3829b86bc442c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\d5b8d2c1fe818d02eda3829b86bc442c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\3a15ddc58252a08a4b629ea16a30ccea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\3a15ddc58252a08a4b629ea16a30ccea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\52d8eb330a88f8b1234a57f6b1f63ad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Danny Hanna\.gradle\caches\transforms-2\files-2.1\52d8eb330a88f8b1234a57f6b1f63ad8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Danny Hanna\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
